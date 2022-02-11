@@ -31,6 +31,20 @@ export const projects = [
     image: "./project-4.jpg",
     link: "https://jtdizzle.github.io/Work-Day-Scheduler/",
   },
+  {
+    tittle: "BlockFlix",
+  subtitle: "This appliation allows users to search for movies and shop by adding to cart.",
+  description: "From the home screen users are able to browse movies by using the search bar. Using the side bar, using can create a sign in and log in to add movies to cart using the 'Add to cart' button",
+  image: "./blockFlix.png",
+  link: "http://tranquil-sea-82088.herokuapp.com/.",
+  },
+  {
+    tittle: "Employee-Management-System",
+  subtitle: "Program that allows to access/view database of employees, add employees, roles, and departments.",
+  description:"Download files from github.Run NPM install to install depedencies.Run Schema/seeds.sql to create/populate database.",
+  image: "./project-6.jpg",
+  link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley",
+  },
 ];
 
 
