@@ -1,6 +1,6 @@
 {
   "name": "my-portfolio",
-  "homepage": "https://jtdizzle.github.io/Reaction-Portfolio/",
+  "homepage": "https://jtdizzle.github.io/Reaction-Portfolio",
   "version": "0.1.0",
   "private": true,
   "main": "public/index.html",
